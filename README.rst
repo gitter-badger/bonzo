@@ -2,6 +2,10 @@
 Bonzo
 =====
 
+.. image:: https://badges.gitter.im/Join%20Chat.svg
+   :alt: Join the chat at https://gitter.im/puentesarrin/bonzo
+   :target: https://gitter.im/puentesarrin/bonzo?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge
+
 .. image:: https://bonzo.readthedocs.org/en/latest/_images/bonzo_sigil.png
    :align: center
    :alt: John Bonham's sigil three intersecting circles
